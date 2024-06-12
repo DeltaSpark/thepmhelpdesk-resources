@@ -3,7 +3,7 @@ A public repository of resources used at [thepmhelpdesk.com](https://www.thepmhe
 
 ## What is this for?
 
-[The Product Management Help Desk](https://www.thepmhelpdesk.com/) a blog about product management by and for the PM’s (and future PM’s!) still figuring it out.
+[The Product Management Help Desk](https://www.thepmhelpdesk.com/) is a blog about product management by and for the PM’s (and future PM’s!) still figuring it out.
 
 This repository is used to host content, attachments, and accessible media that is referenced in the blog's posts.
 
